@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "first_entries",
+  "info": {
+    "singularName": "first-entry",
+    "pluralName": "first-entries",
+    "displayName": "First_entry"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Task_1": {
+      "type": "string"
+    }
+  }
+}
